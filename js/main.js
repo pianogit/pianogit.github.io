@@ -7,4 +7,5 @@ require.config({
 
 require(['test/index'],function(test){
     console.log(test.start());
+    console.log('11111');
 });
